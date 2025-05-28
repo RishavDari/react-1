@@ -1,0 +1,14 @@
+body {
+    padding: 0px;
+    margin: 0px;
+}
+
+.container h1 {
+    color: greenyellow;
+    /* background-color: black; */
+    margin: 20px;
+}
+
+.container {
+    background-color: #000;
+}
